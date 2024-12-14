@@ -27,9 +27,6 @@ My motto: "Every new day is a fresh idea, and every challenge is an opportunity 
             src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" height="50" width="50" alt="facebook" />
     </a>
     <img src="https://komarev.com/ghpvc/?username=Hafiz-Muhammad-Furqan&label=Profile%20views&color=11eb11&style=for-the-badge"
-        alt="Hafiz-Muhammad-Furqan" align="right" />
-    <img align="right" src='https://user-badge.committers.top/pakistan/Hafiz-Muhammad-Furqan.svg' align="center"
-        title="Ranking in Pakistan for Top Github committer" />
     <a align="right" href="https://wakatime.com/@Hafiz-Muhammad-Furqan"><img align="right" src="https://wakatime.com/badge/user/2b9bc0da-3bf8-4082-b333-bc011089fbbb.svg?style=for-the-badge" alt="Total time coded since Oct 2 2022" /></a>
 </p>
 <hr>
