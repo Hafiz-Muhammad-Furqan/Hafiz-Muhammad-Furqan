@@ -1,34 +1,55 @@
-![logo](https://github.com/Hafiz-Furqan-Tech/Hafiz-Furqan-Tech/blob/main/Blue%20%26%20Black%20Modern%20Technology%20LinkedIn%20Banner.png)
+<h2 align="center">🌟 Every line of code is the beginning of a new idea, and every error is an opportunity to learn. <br> Never stop, because the journey is the real success! 🚀
 
-<h1 align="center">Hi 👋, I'm Muhammad Furqan</h1>
-<h3 align="center">A Passionate Frontend Developer From Pakistan</h3>
+<p style="margin-top: 6px; line-height:26x; font-size:16spx;">
+I am Muhammad Furqan, a passionate frontend developer from Pakistan, skilled in React, Firebase, and Redux Toolkit. Currently, I’m learning backend development to become a full-stack developer. I enjoy creating innovative projects and solving problems with creative solutions.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hafiz-muhmmad-furqan&label=Profile%20views&color=0e75b6&style=flat" alt="hafiz-muhmmad-furqan" /> </p>
+I also love helping and inspiring other developers. I’m planning to start freelancing soon and am excited to showcase my skills globally.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hafiz-muhmmad-furqan" alt="hafiz-muhmmad-furqan" /></a> </p>
+My motto: "Every new day is a fresh idea, and every challenge is an opportunity for success!" 🌟</p>
 
-- 🌱 I’m currently learning **Backend Development**
+| Currently Learning | Backend Development |
+| ------------------ | ----------- |
 
-- 👨‍💻 All of my projects are available at [https://github.com/Hafiz-Muhammad-Furqan?tab=repositories](https://github.com/Hafiz-Muhammad-Furqan?tab=repositories)
-
-- 💬 Ask me about **React , Firebase , Redux Toolkit**
-
-- 📫 How to reach me **hafizm.furqan123@gmail.com**
-
-- ⚡ Fun fact **I am Funny 😄**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hafiz-muhammad-furqan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/hafiz-muhammad-furqan" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=61570352643055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61570352643055" height="30" width="40" /></a>
+<p align="center">
+	<a href="https://furqan-my-portfolio.netlify.app" align="center" target="_blank"
+		style="font-size:2rem; letter-spacing:0.3rem; font-weight:800; text-align:center; border:2px solid">MY PERSONAL
+		PORTFOLIO WEBSITE</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<hr>
+<h3 align="left">📫 Connect with me on 🔗 :</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafiz-muhmmad-furqan&show_icons=true&locale=en&layout=compact" alt="hafiz-muhmmad-furqan" /></p>
+<p align="left">
+	<a href="https://www.linkedin.com/in/shehza-d" target="blank"><img align="center"
+			src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="linkedin" />
+  </a>
+	<img src="https://komarev.com/ghpvc/?username=Hafiz-Muhammad-Furqan&label=Profile%20views&color=11eb11&style=for-the-badge"
+		alt="Hafiz-Muhammad-Furqan" align="right" />
+	<img align="right" src='https://user-badge.committers.top/pakistan/Hafiz-Muhammad-Furqan.svg' align="center"
+	title="Ranking in Pakistan for Top Github committer" />
+	<a align="right" href="https://wakatime.com/@Hafiz-Muhammad-Furqan"><img align="right" src="https://wakatime.com/badge/user/2b9bc0da-3bf8-4082-b333-bc011089fbbb.svg?style=for-the-badge" alt="Total time coded since Oct 2 2022" /></a>
+</p>
+<hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafiz-muhmmad-furqan&show_icons=true&locale=en" alt="hafiz-muhmmad-furqan" /></p>
+<h3 align="left">Languages and Tools ⚙️ : </h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hafiz-muhmmad-furqan&" alt="hafiz-muhmmad-furqan" /></p>
+<p align='center'>
+<img src="https://skillicons.dev/icons?i=git,linux,c,css,js" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,nextjs,redux,supabase" />
+<br>
+<img src="https://skillicons.dev/icons?i=materialui,npm,ts,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,postman,postgres,docker,nestjs" />
+</p>
+
+<hr>
+
+
+<div align='center'>
+	<h3> ✍️ Random Dev Quote </h3>
+	<img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia' />
+</div>
+
+<hr>
+<br>
+
 
