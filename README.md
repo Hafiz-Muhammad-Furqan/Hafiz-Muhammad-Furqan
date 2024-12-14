@@ -23,7 +23,7 @@ My motto: "Every new day is a fresh idea, and every challenge is an opportunity 
     <a href="https://www.linkedin.com/in/hafiz-muhammad-furqan" target="blank"><img align="center"
             src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="linkedin" />
     </a>
-    <a href="https://web.facebook.com/MuhammadFurqn12" target="blank"><img align="center"
+    <a href="https://web.facebook.com/MuhammadFurqn06" target="blank"><img align="center"
             src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" height="50" width="50" alt="facebook" />
     </a>
     <img src="https://komarev.com/ghpvc/?username=Hafiz-Muhammad-Furqan&label=Profile%20views&color=11eb11&style=for-the-badge"
