@@ -31,7 +31,8 @@ My motto: "Every new day is a fresh idea, and every challenge is an opportunity 
 <h3 align="left">Languages and Tools ⚙️ : </h3>
 
 <p align='center'>
- <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,redux,materialui,firebase,vscode,git,github,nodejs,express,mongodb,postman,npm" />
+ <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,redux,materialui,firebase" /> <br/>
+ <img src="https://skillicons.dev/icons?i=vscode,git,github,nodejs,express,mongodb,postman,npm" />
 </p>
 
 <hr>
