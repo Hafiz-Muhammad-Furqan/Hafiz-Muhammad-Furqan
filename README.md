@@ -46,7 +46,10 @@ My motto: "Every new day is a fresh idea, and every challenge is an opportunity 
 <h2>GitHub Statistics :zap:</h2>
 <p align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center; width: 100%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hafiz-Muhammad-Furqan&show_icons=true&locale=en&layout=compact&count_private=true&theme=outrun" />
+    <br/> <br/>
     <img src="https://github-readme-stats.vercel.app/api?username=Hafiz-Muhammad-Furqan&show_icons=true&locale=en&count_private=true&theme=outrun" />
+      <br/> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hafiz-Muhammad-Furqan&theme=outrun" />
+      <br/> <br/>
     <img src="https://github-profile-trophy.vercel.app/?username=Hafiz-Muhammad-Furqan&theme=algolia&no-frame=true&column=-1" />
 </p>
