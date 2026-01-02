@@ -1,7 +1,7 @@
 <h2 align="center">✨ Every line of code is the beginning of a new idea, and every error is an opportunity to learn. <br> Never stop, because the journey is the real success! 🚀</h2>
 
 <p style="margin-top: 6px; line-height:26px; font-size:16px;">
-Hi, I’m Muhammad Furqan a full-stack developer from Pakistan, working with the MERN stack (MongoDB, Express, React, Node.js). I’m currently building real-world applications at a tech startup, where I handle both frontend and backend development. I love working on meaningful projects, writing clean and scalable code, and solving real problems through technology. I’m always learning, growing, and sharing what I discover with the dev community.
+Hi, I’m Muhammad Furqan a full-stack developer from Pakistan, working with the MERN stack (MongoDB, Express.js, React.js, Node.js, Nest.js). I build real-world web applications with a strong focus on clean architecture, scalability, and performance. I enjoy working across both frontend and backend, turning complex ideas into practical, user-focused solutions. I love working on meaningful projects, writing clean and scalable code, and solving real problems through technology. I’m always learning, growing, and sharing what I discover with the dev community.
 
 I also love helping and inspiring other developers. I’m excited to keep growing my career and showcase my skills globally.
 
@@ -35,7 +35,7 @@ My motto: "Every new day is a fresh idea, and every challenge is an opportunity 
 
 <p align='center'>
  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,redux,materialui,firebase" /> <br/>
- <img src="https://skillicons.dev/icons?i=vscode,git,github,nodejs,express,mongodb,postman,npm" />
+ <img src="https://skillicons.dev/icons?i=vscode,git,github,nodejs,express,nest,mongodb,postman,npm" />
 </p>
 
 <hr>
