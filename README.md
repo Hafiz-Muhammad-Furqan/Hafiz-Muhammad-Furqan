@@ -35,7 +35,7 @@ My motto: "Every new day is a fresh idea, and every challenge is an opportunity 
 
 <p align='center'>
  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,redux,materialui,firebase" /> <br/>
- <img src="https://skillicons.dev/icons?i=vscode,git,github,nodejs,express,nest,mongodb,postman,npm" />
+ <img src="https://skillicons.dev/icons?i=vscode,git,github,nodejs,express,nest,mongodb,postman,npm" /> <br/>
  <img src="https://skillicons.dev/icons?i=docker,nginx,redis,aws" />
 </p>
 
